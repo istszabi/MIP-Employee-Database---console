@@ -1,0 +1,15 @@
+C:\Users\istsz\source\repos\MIP1\MIP1\bin\Debug\net8.0\MIP1.exe
+C:\Users\istsz\source\repos\MIP1\MIP1\bin\Debug\net8.0\MIP1.deps.json
+C:\Users\istsz\source\repos\MIP1\MIP1\bin\Debug\net8.0\MIP1.runtimeconfig.json
+C:\Users\istsz\source\repos\MIP1\MIP1\bin\Debug\net8.0\MIP1.dll
+C:\Users\istsz\source\repos\MIP1\MIP1\bin\Debug\net8.0\MIP1.pdb
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.AssemblyInfoInputs.cache
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.AssemblyInfo.cs
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.csproj.CoreCompileInputs.cache
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.dll
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\refint\MIP1.dll
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.pdb
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.genruntimeconfig.cache
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\ref\MIP1.dll
+C:\Users\istsz\source\repos\MIP1\MIP1\obj\Debug\net8.0\MIP1.sourcelink.json
